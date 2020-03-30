@@ -1,0 +1,15 @@
+
+
+What is git ignore:
+
+* used to ensure files not already tracked in git remain untracked
+
+* makes it easier if you have lots of files but don't want to show them all
+ when you run git status
+
+ * aids readability for you and anyone who might work on your files by hiding 
+  non relevant files that may be in your directory
+
+  * use git rm --cached. to stop tracking files
+
+  i think...
